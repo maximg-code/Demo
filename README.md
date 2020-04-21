@@ -1,2 +1,2 @@
 # Demo
-For study git
+For git learning
