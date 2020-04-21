@@ -2,11 +2,7 @@
 <companies>
     <company>
         <company-id>770704034</company-id>
-<<<<<<< HEAD
         <name lang="ru">Шпангоут</name>
-=======
-        <name lang="ru">Мачта</name>
->>>>>>> feature2
         <shortname lang="ru">Якорь</shortname>
         <address lang="ru">город Екатеринбург, просп. Ленина, 101, а</address>
         <country lang="ru">Россия</country>
