@@ -4,12 +4,12 @@
         <company-id>770704034</company-id>
         <name lang="ru">Шпангоут</name>
         <shortname lang="ru">Якорь</shortname>
-        <address lang="ru">город Екатеринбург, просп. Ленина, 101, а</address>
+        <address lang="ru">город Ленина, 101, а</address>
         <country lang="ru">Россия</country>
         <address-add lang="ru">ТЦ Ромашка, 2 этаж, офис 203</address-add>
         <phone>
             <number>+7 (12) 3424 454</number>
-            <ext>555</ext>
+            <ext>554555</ext>
             <info>директор</info>
             <type>phone</type>
         </phone>
