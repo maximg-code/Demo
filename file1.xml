@@ -15,14 +15,12 @@
         </phone>
         <phone>
             <ext/><type>phone</type>
-            <number>+7 (800) 200-23-45</number>
             <info/>
         </phone>
         <email>info@yakor-anapa.ru</email>
         <url>http://www.yakor-anapa.ru</url>
         <working-time lang="ru">ежедн. 10:00-21:00</working-time>
-        <rubric-id>184106414</rubric-id>
-        <rubric-id>184106394</rubric-id>
+
         <inn>123456789123</inn>
         <ogrn>9876543219876</ogrn>
         <actualization-date>1511724300</actualization-date>
